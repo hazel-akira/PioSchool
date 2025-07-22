@@ -1,5 +1,5 @@
 // src/pages/CalendarOfEvents.tsx
-import React from 'react';
+
 
 const events = [
   {
@@ -64,8 +64,8 @@ const CalendarOfEvents: React.FC = () => (
 
     {/* Hero */}
     <section
-      className="relative h-52 bg-fixed bg-center bg-cover"
-      style={{ backgroundImage: "url('/images/calendar-hero.jpg')" }}
+      className="relative h-[60vh] bg-fixed bg-center bg-cover"
+      style={{ backgroundImage: "url('/images/calendar.jpg')" }}
     >
       <div className="absolute inset-0 bg-[#093056]/70" />
       <div className="relative z-10 flex items-center justify-center h-full">

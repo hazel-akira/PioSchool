@@ -1,5 +1,5 @@
 // src/pages/StudentAccess.tsx
-import React from 'react'
+
 
 import {
   EnvelopeIcon,
@@ -33,7 +33,7 @@ const accessItems = [
   },
   {
     title: 'Register to Club & Sport',
-    url: '#', // replace with actual club & sport registration link if available
+    url: '/student-life', // replace with actual club & sport registration link if available
     Icon: UserGroupIcon,
   },
 ]
@@ -46,7 +46,7 @@ const StudentAccess: React.FC = () => (
       style={{ backgroundImage: "url('/images/stuAccess.jpg')" }}
     >
       {/* dark overlay */}
-      <div className="absolute inset-0 bg-[#093056]/70" />
+      <div className="absolute inset-0 bg-[#093056]/30" />
       <div className="relative z-10 text-center px-4">
         <h1 className="text-3xl md:text-5xl font-bold">Student Access</h1>
         <p className="mt-2 text-lg max-w-xl">

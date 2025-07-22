@@ -1,6 +1,6 @@
 // src/pages/BoardingLife.tsx
-import React from 'react';
-import { NavLink } from 'react-router-dom';
+
+
 
 
 import InfoCard from '../components/InfoCard';
@@ -11,7 +11,7 @@ const BoardingLife: React.FC = () => (
 
     {/* Hero */}
     <section
-      className="relative h-[50vh] bg-cover bg-center flex items-center justify-center"
+      className="relative h-[60vh] bg-cover bg-center flex items-center justify-center"
       style={{ backgroundImage: "url('/images/Student.jpg')" }}
     >
       <div className="absolute inset-0 bg-[#093056] opacity-60" />

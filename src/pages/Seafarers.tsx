@@ -1,5 +1,5 @@
 // src/pages/Seafarers.tsx
-import React from 'react';
+
 import InfoCard from '../components/InfoCard';
 
 const courses = [

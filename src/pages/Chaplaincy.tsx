@@ -1,5 +1,5 @@
 // src/pages/Chaplaincy.tsx
-import React from 'react';
+
 
 
 const Chaplaincy: React.FC = () => (

@@ -1,5 +1,5 @@
 // src/pages/SchoolOfSTEM.tsx
-import React, { useState } from 'react';
+import { useState } from 'react';
 import InfoCard from '../components/InfoCard';
 
 // Types

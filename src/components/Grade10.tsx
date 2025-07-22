@@ -1,5 +1,5 @@
 // src/pages/JoinGrade10.tsx
-import React from 'react'
+
 
 
 const JoinGrade10: React.FC = () => (

@@ -1,7 +1,4 @@
 // src/pages/JoinGrade9.tsx
-import React from 'react';
-
-
 const JoinGrade9: React.FC = () => (
   <div className="min-h-screen flex flex-col bg-[#f9fafb]">
  

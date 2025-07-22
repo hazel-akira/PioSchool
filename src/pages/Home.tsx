@@ -1,5 +1,5 @@
 // src/pages/Home.tsx
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import Hero from '../components/Hero';
 import Modal from '../components/Modal';
 
@@ -19,7 +19,7 @@ const Home: React.FC = () => {
       <Modal
         show={showModal}
         logoSrc="/images/ps.png"
-        title="Pioneer School"
+        title="Apply for grade 10"
         imageSrc="/images/Modal.png"
         enquiryUrl="https://enquireto.pioneergroupofschools.co.ke/SignIn?ReturnUrl=%2F"
         onClose={() => setShowModal(false)}

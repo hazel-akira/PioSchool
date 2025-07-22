@@ -1,5 +1,5 @@
 // src/components/Footer.tsx
-import React from 'react';
+
 import { FaAngleRight, FaTiktok, FaInstagram, FaTwitter, FaFacebook, FaLinkedin, FaYoutube } from 'react-icons/fa';
 import { HiPhone, HiMail, HiLocationMarker } from 'react-icons/hi';
 

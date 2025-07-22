@@ -1,7 +1,7 @@
 // src/components/TransformativeHistory.tsx
-import React, { useRef } from 'react';
+import { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import { PhoneIcon } from '@heroicons/react/24/outline';
+
 
 const TransformativeHistory: React.FC = () => {
   const ref = useRef<HTMLDivElement>(null);

@@ -1,5 +1,5 @@
 // src/pages/JoinForm4.tsx
-import React from 'react';
+
 
 
 const JoinForm4: React.FC = () => (

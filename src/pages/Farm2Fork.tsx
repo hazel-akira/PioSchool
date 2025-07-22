@@ -1,5 +1,5 @@
 // src/pages/Farm2Fork.tsx
-import React from 'react';
+
 
 
 interface SectionCardProps {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { HiPhone, HiMail, HiLocationMarker } from 'react-icons/hi';
 
 const FooterContact: React.FC = () => (

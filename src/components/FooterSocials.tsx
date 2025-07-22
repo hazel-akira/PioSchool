@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaTiktok, FaInstagram, FaTwitter, FaFacebook, FaLinkedin, FaYoutube } from 'react-icons/fa';
 
 const socialIcons = [

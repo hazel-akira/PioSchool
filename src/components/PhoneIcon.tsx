@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaPhoneAlt } from 'react-icons/fa'; // or your preferred icon library
 
 const PhoneIcon: React.FC = () => (

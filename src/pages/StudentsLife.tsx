@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
 import InfoCard from '../components/InfoCard';
 
@@ -48,7 +48,7 @@ const StudentLife: React.FC = () => (
 
     {/* Hero */}
     <section
-      className="relative h-64 bg-cover bg-center flex items-center justify-center"
+      className="relative h-[60vh] bg-cover bg-center flex items-center justify-center"
       style={{ backgroundImage: "url('/images/sports.png')" }}
     >
       <div className="absolute inset-0 bg-[#093056]/70" />
